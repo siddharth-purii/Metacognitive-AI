@@ -27,6 +27,8 @@ This is a Python-based chatbot application leveraging a causal language model to
 - OpenPyXL (for Excel output)
 - TinyLlama-1.1B-Chat-v1.0
 
+---
+
 ## Code Overview
 - Model loading and device setup: Loads tokenizer and model, moves model to GPU if available.
 - generate_response(prompt, ...): Generates a text response from the model given a prompt.
