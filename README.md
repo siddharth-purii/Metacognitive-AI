@@ -36,3 +36,8 @@ This is a Python-based chatbot application leveraging a causal language model to
 - generate_final_answer(...): Combines TRAP insights to produce an improved final answer.
 - run_trap_chatbot(user_input): Runs full pipeline for a single user input.
 - Logging and saving: Logs conversation data and saves it to Excel on exit.
+
+---
+
+## About This Implementation
+A very basic implementation of the TRAP framework can be found here. This entry-level model is intended primarily as a proof of concept rather than a ready-for-production solution. It does not modify the underlying system architecture but functions as a wrapper built on top of the existing model.
